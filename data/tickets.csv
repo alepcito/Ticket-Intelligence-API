@@ -1,0 +1,81 @@
+text,category
+Me cobraron dos veces la suscripción,facturacion
+Necesito la factura de mi último pago,facturacion
+El importe del recibo es incorrecto,facturacion
+Quiero actualizar los datos fiscales de facturación,facturacion
+No aparece el pago que hice ayer,facturacion
+Mi tarjeta fue rechazada al pagar,facturacion
+Solicito un reembolso por un cargo indebido,facturacion
+La factura tiene un RFC equivocado,facturacion
+El descuento no se aplicó a mi cobro,facturacion
+Cómo puedo descargar mis facturas anteriores,facturacion
+Me siguen cobrando después de cancelar,facturacion
+Quiero cambiar el método de pago,facturacion
+El total de la factura no coincide con mi plan,facturacion
+Necesito un comprobante del pago mensual,facturacion
+Me llegó un cargo que no reconozco,facturacion
+La transferencia para pagar no se refleja,facturacion
+No puedo iniciar sesión con mi contraseña,acceso
+Olvidé mi contraseña y necesito restablecerla,acceso
+Mi cuenta está bloqueada al intentar entrar,acceso
+No recibo el correo para recuperar mi acceso,acceso
+El código de verificación no funciona,acceso
+Necesito cambiar el correo de mi cuenta,acceso
+Mi usuario aparece como inexistente,acceso
+No puedo acceder con autenticación de dos pasos,acceso
+La sesión se cierra cuando intento entrar,acceso
+Quiero recuperar mi cuenta bloqueada,acceso
+Perdí mi teléfono y no puedo verificar mi identidad,acceso
+El enlace para restablecer la contraseña expiró,acceso
+Mi clave de acceso dejó de funcionar,acceso
+No me llega el código para iniciar sesión,acceso
+Cómo puedo desbloquear mi usuario,acceso
+Necesito ayuda para entrar a mi cuenta,acceso
+La aplicación se cierra al abrir un archivo,soporte_tecnico
+La pantalla queda en blanco después de cargar,soporte_tecnico
+Aparece un error al guardar mis cambios,soporte_tecnico
+El sistema está muy lento desde la actualización,soporte_tecnico
+No funciona el botón de exportar datos,soporte_tecnico
+Recibo error de servidor al abrir el panel,soporte_tecnico
+La aplicación no sincroniza mis archivos,soporte_tecnico
+El reporte se descarga vacío por un fallo,soporte_tecnico
+El buscador muestra resultados incorrectos,soporte_tecnico
+La integración devuelve un error de conexión,soporte_tecnico
+No puedo adjuntar archivos en la aplicación,soporte_tecnico
+El panel se congela al seleccionar un filtro,soporte_tecnico
+La actualización provoca fallos al guardar,soporte_tecnico
+El servicio devuelve error 500 continuamente,soporte_tecnico
+La carga de documentos nunca termina,soporte_tecnico
+Los gráficos del sistema dejaron de cargar,soporte_tecnico
+Quiero conocer el precio del plan empresarial,ventas
+Necesito una cotización para veinte usuarios,ventas
+Pueden darme una demostración del producto,ventas
+Qué incluye el plan premium para empresas,ventas
+Quiero contratar una licencia anual,ventas
+Me interesa comprar más licencias para mi equipo,ventas
+Tienen descuentos por contratar varios usuarios,ventas
+Necesito hablar con un asesor comercial,ventas
+Cuál es la diferencia entre los planes disponibles,ventas
+Quisiera probar el producto antes de comprar,ventas
+Busco una propuesta comercial para mi empresa,ventas
+El plan profesional incluye soporte personalizado,ventas
+Quiero ampliar mi suscripción a un plan superior,ventas
+Solicito información sobre precios y licencias,ventas
+Podemos agendar una demo para nuestro equipo,ventas
+Deseo contratar el servicio para mi negocio,ventas
+Quiero cancelar mi suscripción al servicio,cancelaciones
+Cómo puedo dar de baja mi cuenta,cancelaciones
+No deseo renovar mi plan el próximo mes,cancelaciones
+Solicito la cancelación de mi contrato,cancelaciones
+Necesito desactivar la renovación automática,cancelaciones
+Quiero cerrar mi cuenta definitivamente,cancelaciones
+Dejaré de usar el servicio y quiero darlo de baja,cancelaciones
+Pueden cancelar mi membresía mensual,cancelaciones
+No encuentro la opción para cancelar el plan,cancelaciones
+Deseo terminar mi suscripción anual,cancelaciones
+Cómo solicito la baja del servicio contratado,cancelaciones
+Quiero detener la renovación de mi licencia,cancelaciones
+Ya no necesito la cuenta y deseo cerrarla,cancelaciones
+Solicito terminar el contrato al finalizar el mes,cancelaciones
+Necesito cancelar todas las licencias activas,cancelaciones
+Quisiera dejar de renovar mi membresía,cancelaciones

@@ -15,10 +15,9 @@ marca `needs_review` si la mayor probabilidad es menor al umbral configurado
 > representativos se requiere un dataset real anonimizado; ver
 > [Roadmap](#roadmap).
 
-## Capturas
+## Demo
 
-> _Pendiente: agregar un GIF de `/docs` mostrando una llamada a `/predict`
-> con `category`, `confidence` y `needs_review`._
+![Demo de la API](docs/1.gif)
 
 ## Inicio local
 

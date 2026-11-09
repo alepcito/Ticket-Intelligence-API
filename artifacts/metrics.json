@@ -1,0 +1,100 @@
+{
+  "model_version": "demo-v1",
+  "dataset_sha256": "4307fe2edf55f0eee738388940c0318974d83ce78388697a0d6d59522486ec60",
+  "dataset_type": "synthetic_demo",
+  "random_state": 42,
+  "train_samples": 60,
+  "test_samples": 20,
+  "accuracy": 0.65,
+  "macro_f1": 0.6555555555555556,
+  "baseline_macro_f1": 0.06666666666666667,
+  "categories": [
+    "acceso",
+    "cancelaciones",
+    "facturacion",
+    "soporte_tecnico",
+    "ventas"
+  ],
+  "classification_report": {
+    "acceso": {
+      "precision": 0.6,
+      "recall": 0.75,
+      "f1-score": 0.6666666666666666,
+      "support": 4.0
+    },
+    "cancelaciones": {
+      "precision": 0.4,
+      "recall": 0.5,
+      "f1-score": 0.4444444444444444,
+      "support": 4.0
+    },
+    "facturacion": {
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1-score": 0.5,
+      "support": 4.0
+    },
+    "soporte_tecnico": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
+    },
+    "ventas": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 4.0
+    },
+    "accuracy": 0.65,
+    "macro avg": {
+      "precision": 0.7,
+      "recall": 0.65,
+      "f1-score": 0.6555555555555556,
+      "support": 20.0
+    },
+    "weighted avg": {
+      "precision": 0.7,
+      "recall": 0.65,
+      "f1-score": 0.6555555555555556,
+      "support": 20.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      3,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      2
+    ]
+  ]
+}
